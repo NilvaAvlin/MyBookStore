@@ -9,4 +9,8 @@ public class Outro {
 		
 		return Hello;
 	}
+	
+	public int idade(int id){
+		return id;
+	}
 }
