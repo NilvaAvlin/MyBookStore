@@ -1,6 +1,6 @@
 
 public class StoreMatrix {
-	Ttring name;
+	String name;
 	String email;
 
 }
