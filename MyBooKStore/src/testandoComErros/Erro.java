@@ -2,6 +2,6 @@ package testandoComErros;
 
 public class Erro {
 	
-	inti numero;
+	int numero;
 
 }
