@@ -1,6 +1,6 @@
 
 public class TestandoBuildAutomatico {
 	String build;
-	Sring teste;
+	String teste;
 
 }
